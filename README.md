@@ -1,6 +1,7 @@
 # fuckVITBPL
 
 This bot automates EVERYTHING to get you CyberGhost VPN Premium for free, resetting the 1-day trial every single day. **Unlimited. No setup, no effort.**  
+
 **Only works on Windows 😞 and iOS devices** (but you have to use this bot on a Windows PC and log in with the generated Premium VPN account).
 
 ---
@@ -68,4 +69,4 @@ For **“educational purposes”** only—don’t sue me :(. If your wifi cries,
 ---
 
 Anyway, have some silly cat pics:
-![Silly Cat](https://imgur.com/57f77be5-0eaf-4da4-ae9c-4585c7050bce)
+![Silly Cat](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/sillycats.png?raw=true)
