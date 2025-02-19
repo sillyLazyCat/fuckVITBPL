@@ -1,4 +1,4 @@
-# fuckVITBPL
+# "fuckVITBPL"
 
 This bot automates EVERYTHING to get you CyberGhost VPN Premium for free, resetting the 1-day trial every single day. **Unlimited. No setup, no effort.**  
 
