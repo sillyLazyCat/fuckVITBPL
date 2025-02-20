@@ -2,11 +2,15 @@
 
 This bot automates EVERYTHING to get you CyberGhost VPN Premium for free, resetting the 1-day trial every single day. **Unlimited. No setup, no effort.**  
 
-**Only works on Windows 😞 and iOS devices** (but you have to use this bot on a Windows PC and log in with the generated Premium VPN account).
+**Only works on Windows :( and iOS devices** (but you have to use this bot on a Windows PC and log in with the generated Premium VPN account).
 
 ![Screenshot1](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/Screenshot1.png?raw=true)
----
 
+---
+### Download (90MB): 
+[![Download Button](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/button_fuckvitbpl.png?raw=true)](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmFBb3FKY3VoYlZiUW9yVHd1ZmRobVlkSVk_ZT1ZNHdzS1k/root/content)
+
+---
 ## Why this exists:
 VITBPL wifi is actual trash, bro. It shoulda been dead or sum, speeds so slow, your WhatsApp texts show up next semester 😭🙏, and disconnects every 2 minutes like it’s powered by hopes and prayers 💯.  
 So, I made this bot to get rid of their shit restrictions and give you usable internet forever.
