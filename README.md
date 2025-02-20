@@ -68,7 +68,7 @@ However, the EA App doesn’t work with VPN, so here’s your fix: [Fuck_off_EA_
 
 ---
 
-### Big thanks to “MADARA” for building the reset tool! 🙏❤️  
+### Big thanks to “MADARA” for building the reset tool! ❤️  
 **Made using AI because college taught me nothing LMFAO.**  
 If this bot saved your broke ass, share it with your homies and don’t gatekeep like VIT wifi admins xd.  
 
