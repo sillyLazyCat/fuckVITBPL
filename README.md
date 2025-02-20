@@ -63,6 +63,9 @@ However, the EA App doesn’t work with VPN, so here’s your fix: [Fuck_off_EA_
 **Q: What if the VPN stops?**  
 **A:** Just run the bot again, reset everything, and you’re good to go.
 
+**Q: Why isn’t this working on Windows 10?**  
+**A:** It’s a buggy mess on some Windows 10 machines, especially if you’re on updates from 2021 or earlier.
+
 ---
 
 ### Big thanks to “MADARA” for building the reset tool! 🙏❤️  
