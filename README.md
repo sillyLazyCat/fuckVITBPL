@@ -2,7 +2,7 @@
 
 This bot automates EVERYTHING to get you CyberGhost VPN Premium for free, resetting the 1-day trial every single day. **Unlimited. No setup, no effort.**  
 
-**Only works on Windows :( and iOS devices** (but you have to use this bot on a Windows PC and log in with the generated Premium VPN account).
+**Only works on Windows :(
 
 ![Screenshot1](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/Screenshot1.png?raw=true)
 
