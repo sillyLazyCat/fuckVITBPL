@@ -40,6 +40,8 @@ When the trial runs out, just run the bot again and follow the steps from Step 2
 If you’re experiencing slow speeds, that’s on the network, and the VPN ain’t gonna do anything, dawg. 💀  
 But if sites are throttling your downloads because of VIT’s stupid restrictions, the VPN might help with that. Always use [JDownloader2](https://jdownloader.org/jdownloader2).
 
+Or use [Multi-Threaded Downloader](https://github.com/sillyLazyCat/Multi-Threaded-Downloader).
+
 ---
 
 ## FAQ (because y’all always ask):
