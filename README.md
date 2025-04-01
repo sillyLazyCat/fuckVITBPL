@@ -7,9 +7,6 @@ Only works on Windows :(
 ![Screenshot1](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/Screenshot1.png?raw=true)
 
 ---
-### Download (90MB): 
-[![Download Button](https://github.com/sillyLazyCat/fuckVITBPL/blob/main/button_fuckvitbpl.png?raw=true)](https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmFBb3FKY3VoYlZjb1pabV81ODNnWVNfcTQ_ZT1HMmZlNng/root/content)
-
 **Kill the antivirus for a sec**—it’s false flaggin the crack.
 
 ---
@@ -32,11 +29,7 @@ The bot has it bundled in the `.exe`, just install it from there. *(VITBPL block
 ### 3. Sit back and chill:
 The bot will automatically create a new CyberGhost Premium account for you with a 1-day trial.
 
-### 4. Tweak the VPN settings:
-- Once the bot is done, open **CyberGhost VPN**.
-- Go to **Settings** and change the VPN protocol to **IKEv2** *(you NEED this, or it won’t work properly).*
-
-### 5. Repeat after 1 day:
+### 4. Repeat after 1 day:
 When the trial runs out, just run the bot again and follow the steps from Step 2.  
 **Unlimited reset = unlimited VPN.**
 
